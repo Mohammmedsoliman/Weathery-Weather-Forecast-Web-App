@@ -37,19 +37,6 @@ Designed with a strong focus on UI/UX, responsiveness, and API integration, Weat
 ### Home Dashboard
 
 ![Dashboard](showcase/01-dashboard.png)
-
-### Hourly Forecast
-
-![Hourly Forecast](showcase/02-hourly-forecast.png)
-
-### Weekly Forecast
-
-![Weekly Forecast](showcase/03-weekly-forecast.png)
-
-### Search Functionality
-
-![Search](showcase/04-search.png)
-
 ---
 
 ## 🎯 Project Goals
