@@ -28,15 +28,24 @@ Designed with a strong focus on UI/UX, responsiveness, and API integration, Weat
 - HTML5
 - CSS3
 - JavaScript (ES6)
-- OpenWeather API
+- Weather API
 
 ---
 
 ## 📸 Screenshots
 
-### Home Dashboard
+### Home Dashboard -light
 
 ![Dashboard](showcase/01-dashboard.png)
+
+### Home Dashboard -Dark
+
+![Dashboard](showcase/02-dashboard.png)
+
+### Weekly Forecast
+
+![Dashboard](showcase/03-weekly.png)
+
 ---
 
 ## 🎯 Project Goals
@@ -65,7 +74,7 @@ This project was built to strengthen frontend development skills while practicin
 
 ## 🚀 Live Demo
 
-Coming Soon...
+**https://mohammmedsoliman.github.io/Weathery-Weather-Forecast-Web-App/**
 
 ---
 
