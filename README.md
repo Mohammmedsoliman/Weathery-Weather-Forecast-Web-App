@@ -44,7 +44,7 @@ Designed with a strong focus on UI/UX, responsiveness, and API integration, Weat
 
 ### Weekly Forecast
 
-![Dashboard](showcase/03-weekly.png)
+![Dashboard](showcase/weekly.png)
 
 ---
 
