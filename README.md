@@ -1,3 +1,4 @@
+![Banner](showcase/04-banner.png)
 # 🌦️ Weathery — Modern Weather Forecast Web App
 
 A modern and responsive weather application that provides accurate real-time weather information through a clean and intuitive interface.
